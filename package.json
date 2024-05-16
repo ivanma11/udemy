@@ -1,0 +1,35 @@
+{
+  "name": "udemy",
+  "version": "1.0.0",
+  "description": "Copia de Udemy, solo front",
+  "main": "gulp.js",
+  "scripts": {
+    "dev": "gulp"
+  },
+  "devDependencies": {
+    "bootstrap": "^5.1.1",
+    "gulp": "^4.0.2",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-plumber": "^1.2.1",
+    "gulp-purgecss": "^4.0.3",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^5.0.0",
+    "sass": "^1.39.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivanma11/udemy.git"
+  },
+  "keywords": [
+    "udemy",
+    "bootstrap",
+    "5",
+    "gulp"
+  ],
+  "author": "Jesús Iván Moales Aispuro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivanma11/udemy/issues"
+  },
+  "homepage": "https://github.com/ivanma11/udemy#readme"
+}
